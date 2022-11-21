@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alkalami&family=Bad+Script&family=Cabin:wght@600&family=Covered+By+Your+Grace&family=Dancing+Script:wght@700&family=Gloria+Hallelujah&family=Inter+Tight:ital@0;1&family=Pacifico&family=Rajdhani:wght@600&display=swap');
+
+
+h1{
+    font-family: 'Acme', sans-serif;
+}
+
+
+button{
+    box-shadow: 5px 5px lightblue;
+}
+

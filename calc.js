@@ -9,7 +9,12 @@ result.value=""
 
 //to evaluate string type mathematical function - use eval()
 function equalto(){
-    result.value=eval(result.value)
+    try{
+        result.value=eval(result.value)
+    }
+    catch(err){
+        alert("Invalid")
+    }
 }
 
 function backspace(){
